@@ -1,0 +1,9 @@
+.bg-box{
+    width: 1200px;
+    height: 600px;
+    background-color: green;
+    background-image: url(./img/dom.webp),url(./img/green-png-44873.png),url(./img/poncik.png),url(./img/ezz.webp),url(./img/lamp-png-34914.png);
+    background-repeat: no-repeat, repeat-x,repeat-y,repeat-y,repeat-x;
+    background-position: center , bottom ,right,left,top;
+    background-size: 400px , 340px,30px, 30px,45px;
+}
